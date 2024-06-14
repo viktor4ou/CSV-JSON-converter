@@ -1,2 +1,7 @@
 add string to CSV
 add if they want to save the resutls to a file
+add if they want to read from file
+
+exception handling if the format is not right 
+exception handling if the file is not found
+expetion handling if the text is null or empty with custom exceptions
