@@ -1,0 +1,2 @@
+add string to CSV
+add if they want to save the resutls to a file
